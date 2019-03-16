@@ -18,9 +18,9 @@
 
 
 ## Screenshots
-![img1](https://preview.redd.it/aoh4z6fwold21.png?auto=webp&s=235ccc0f2b4b68b909d18dea301fb828e4e79451)
-![img2](https://preview.redd.it/aoh4z6fwold21.png?auto=webp&s=235ccc0f2b4b68b909d18dea301fb828e4e79451)
-![img3](https://preview.redd.it/aoh4z6fwold21.png?auto=webp&s=235ccc0f2b4b68b909d18dea301fb828e4e79451)
+![img1](p_s1.png)
+![img2](p_s2.png)
+![img3](p_s3.png)
 
 
 
