@@ -2,10 +2,10 @@
 
 
 
-## Download!
+## Download (MAC)
 
 [Click here to download!](https://drive.google.com/open?id=1RyRBxyeipKU3nFWebxe0tclFypnvkZHN)
-
+IMPORTANT!!: RUN BINARY THROUGH TERMINAL
 
 ## Documentation
 [Click here for documentation](Docs/html/index.html)
